@@ -1,4 +1,4 @@
-# 🌱 Smart Soil Moisture Monitoring System – IoT-Based Precision Agriculture
+# Smart Soil Moisture Monitoring System – IoT-Based Precision Agriculture
 
 Proudly presenting a **Smart IoT-Based Soil Moisture Monitoring System**, successfully operational for over a year. Designed to enable **precision irrigation**, **optimized water usage**, and **enhanced crop yields**, this system leverages real-time monitoring, automation, and cloud-based analytics for modern sustainable farming.
 
